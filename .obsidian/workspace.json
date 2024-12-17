@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "0d0596e5062bc457",
+    "type": "split",
+    "children": [
+      {
+        "id": "4fa79d08f0d23ced",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf671c86d0d7c32a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5b3162e98930739b",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ef388c9377f7d0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1af1205794cb8dfb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "a170689116f7bc0a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "e01ba4f235d11378",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "24770dcad217a02b",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Spaces"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4821bc297ba0857b",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d535b1634da2122",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "528ce53c49b9538b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "백링크"
+            }
+          },
+          {
+            "id": "b92839ec37e3fe28",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "나가는 링크"
+            }
+          },
+          {
+            "id": "e4cd70820ad8e138",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "485674fe726aa654",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "개요"
+            }
+          },
+          {
+            "id": "ec2a6f3b04f04073",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "cf671c86d0d7c32a",
+  "lastOpenFiles": [
+    "Network/외워서 끝내는 네트워크 핵심 이론 - 기초.md",
+    "Tags",
+    "Network/Network.md",
+    "Network",
+    "Vault.md",
+    "ML/.md",
+    "Templates/Templates.md",
+    "Templates",
+    "무제 파일.md",
+    "ML/ML.md",
+    "Templates/Basic Template.md",
+    "README.md.md",
+    "Book/Book.md",
+    "README.md",
+    "ML",
+    "Book/대규모 시스템 설계 기초 2/무제 파일.md",
+    "Book/무제 파일 1.md",
+    "Book/무제 파일.md",
+    "Book/대규모 시스템 설계 기초 2/대규모 시스템 설계 기초 2.md",
+    "Book/대규모 시스템 설계 기초 2",
+    "Book/.md",
+    "Book",
+    "Spring/Spring.md",
+    "Spring/Untitled 1.md",
+    "Spring/Untitled.md",
+    "Spring"
+  ]
+}
