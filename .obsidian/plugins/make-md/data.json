@@ -46,12 +46,10 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "Tags",
-    "//Tags",
     "//Spring",
     "//Book/Book/대규모 시스템 설계 기초 2",
-    "//Templates",
-    "//Network",
-    "/"
+    "/",
+    "//Algorithm"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
