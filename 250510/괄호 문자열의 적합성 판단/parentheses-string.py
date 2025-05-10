@@ -8,9 +8,9 @@ for c in str:
         s.append(c)
     else:
         if not s:
-            print(No)
+            print("No")
             exit(0)
-        if s[-1] == "(":
+        if s[-1] != "(":
             s.pop()
 if s:
     print("No")
