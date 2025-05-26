@@ -27,12 +27,12 @@ result = -1
 
 for i in range(n): 
     for j in range(n):
-        for k in range(1, n):
+        for k in range(n):
             g = bfs(i, j, k)
             # if i == 2 and j == 2:
             #     print(g, k)
             # if i == 1 and j == 1:
-            if g * m > (k) ** 2 + (k + 1) ** 2:
+            if g * m >= (k) ** 2 + (k + 1) ** 2:
                 result = max(result, g)
 print(result) 
             
