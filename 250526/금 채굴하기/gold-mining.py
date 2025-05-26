@@ -26,7 +26,7 @@ def bfs(x, y, k):
 result = -1
 
 for i in range(n): 
-    for j in range(m):
+    for j in range(n):
         for k in range(1, (n // 2) + 1):
             g = bfs(i, j, k)
             # if i == 2 and j == 2:
