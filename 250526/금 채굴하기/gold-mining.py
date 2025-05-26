@@ -23,7 +23,7 @@ def bfs(x, y, k):
                 q.append((nx, ny, nk))
     return gold
 
-result = -1
+result = 0
 
 for i in range(n): 
     for j in range(n):
