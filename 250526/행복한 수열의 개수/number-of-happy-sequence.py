@@ -16,6 +16,9 @@ for i in range(n):
         if c >= m:
             result += 1
             break;
+    if c >= m:
+        result += 1
+        break;
 
 for i in range(n):
     v = grid[0][i]
@@ -29,4 +32,7 @@ for i in range(n):
         if c >= m:
             result += 1
             break;
+    if c >= m:
+        result += 1
+        break;
 print(result)
