@@ -13,12 +13,10 @@ for i in range(n):
         else:
             v = grid[i][j]
             c = 1
-        if c >= m:
-            result += 1
-            break;
+
     if c >= m:
         result += 1
-        break;
+
 
 for i in range(n):
     v = grid[0][i]
@@ -29,10 +27,8 @@ for i in range(n):
         else:
             v = grid[j][i]
             c = 1
-        if c >= m:
-            result += 1
-            break;
+
     if c >= m:
         result += 1
-        break;
+
 print(result)
